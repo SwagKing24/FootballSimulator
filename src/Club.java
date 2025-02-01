@@ -12,6 +12,7 @@ public class Club {
         this.name = name;
         this.id = id;
         this.riskMarketFactor = riskMarketFactor;
+        this.budget = 100;
     }
 
 
